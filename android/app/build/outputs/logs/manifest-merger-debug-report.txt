@@ -1,0 +1,796 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:1:1-102:12
+INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:1:1-102:12
+INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:1:1-102:12
+INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:1:1-102:12
+MERGED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:1:1-102:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b08ed8726655efc73fd7144e4bac89e1/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-image-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:@react-native-community_async-storage] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fbsdk] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:1-30:12
+MERGED from [:react-native-twitter-signin] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-twitter-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-google-signin] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-maps] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-snapchat-login] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-snapchat-login/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_geolocation] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-branch] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-branch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-device-info] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-permissions] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/00230b97c4abc2b63dce1db84639375e/AndroidManifest.xml:2:1-13:12
+MERGED from [io.branch.sdk.android:library:4.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5e22a229ef4d94d6768e39048f4b929d/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/55d984c83dd7f70d302b8d28d61085f4/AndroidManifest.xml:17:1-37:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f2d179d5060811a1cc934ec9de4cb752/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.snapchat.kit.sdk:login:1.3.2] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/faabc8253b9fdd683d7e69bad618aa85/AndroidManifest.xml:2:1-11:12
+MERGED from [com.snapchat.kit.sdk:core:1.3.2] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/58e1d24299edbfa388cdb2d203876443/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-login:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f499123a1bcf4f6645d47e0b6ef06186/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/13cbceb8dd8219a08618f7d31a4b6558/AndroidManifest.xml:21:1-31:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/fc0bec82d1b95ed0921e96524e54eaa8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-common:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/89005b305243fdbe52d3f44cab4446be/AndroidManifest.xml:21:1-37:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2bfd6a8e1356938507f2c5d195a27330/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/cadbe60229b5438ffb8b712cce95e90e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5ba1ddef2975b6b01889d2e52e2fef1e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/594ca2c60bc4a943ac5a6e95844ab03f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/c7fff5f7d358a6959a69e1cc6399751b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b2109638f1a64300f5a7ff9197140091/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b8c850917cd5f4baa666908c20c861dc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/eba794a42d4237059ea2c9c2d0659284/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/88fdd3116a26ea8adc7de0ad73062bd8/AndroidManifest.xml:2:1-13:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2a51c8a642906c261e6a497f77777a39/AndroidManifest.xml:18:1-35:12
+MERGED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:21:1-61:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/fa803fb7b9ebdd61e6324042a4a9b391/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/40d37197e8d8032544a974bd264f6c52/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/27124979066b0241675dcebcf2a81a1e/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/a86feee9d3473b5cdd61c721e1537d58/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f3e6f2c52632da1613da61e06c39396d/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5c42e562fec22cb54eb00e375cc2b297/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/1e4af1c9c2de5f7686d5cc6464a08166/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/775e90a3278116731ae6451331518399/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2ac71bffe7d013d32693c06ecea2fe20/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/80634bed910eb401dd5818fee6615c38/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/6143f20ef97a421e92d707ffb4508063/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5948acfce63fd00d23a50b58df676669/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/bf84bafef99f7950e0b17af2f24d25b0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/474217ce2d34e70cc3917e0bea73a02a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/09f0db127aa82f7d2c22046da2d8712e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f92a522e77aa8f2bffeb7da283963d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5a1ad377655e0cb26008874d8135bfa5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b56de5031d18ced5f4193596be01b098/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8bc01ed89b6dc31516f0c03f48295a87/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/04f862c1b6148b6453fbbc5fd3504c7f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/49a105556c237a110619810f9ea79175/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/ea2b72290a9bc1192b18377960e6c5de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/4ceb523bc7f3c9376c951097e0e4dd99/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/c6a7a9dc9d99f85d0cfc1901a5ca7ec3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/d4db8a5308f8b4e9b6d2aff095b31487/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/064c3aa982817e7ad430d4762435a5df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/bb1ea122ff805b7df834368d6f769288/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/cc55857a2897f496d4c6905e7d2c7608/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/7c79eea9e5147c6e7e6ddcbbde159570/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/37d4448dff85985c55a8c3d83d941214/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2dc817e21173af6342bd817c7275ce5f/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/60796d61943cd0ce9201b3b4619e0cce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/cdf91c67e2c85747836e01fed4724d91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/a7bc5fd04f99c4a3c1f0bb83bd9122c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b7648dafcdfc5e939b42eacf6125d358/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f39c4dd72895f7b0d2a7eff5582ec48c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/e64d1f3b33cdf114b33882f16aab8fc9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/1623eaded4f0178c170643cd88f68c7c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/e6d4ddfd3a86aa338f8c685d1f383146/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/c28aa7a8199b3868e8900d2e9b36462e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8ae6dcf12fc025e5105caf0167f2404c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b10ceb00dc0d0347d98514d662f2cf13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/907279662655e88a6ef5ceefb141dff2/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:2:3-20
+		INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:2:3-20
+		INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:1:1-102:12
+		INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:1:1-102:12
+		INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2a51c8a642906c261e6a497f77777a39/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2a51c8a642906c261e6a497f77777a39/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/fa803fb7b9ebdd61e6324042a4a9b391/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/fa803fb7b9ebdd61e6324042a4a9b391/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:5:1-61
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:5:18-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:6:1-76
+MERGED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:6:18-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:7:1-77
+MERGED from [:react-native-maps] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:7:18-74
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:8:22-76
+uses-feature#android.hardware.location.gps
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:9:19-63
+uses-feature#android.hardware.camera
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:10:5-85
+	android:required
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:10:58-82
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:11:5-91
+	android:required
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:11:64-88
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:11:19-63
+application
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:13:5-100:19
+MERGED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:13:5-100:19
+MERGED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:13:5-100:19
+MERGED from [:react-native-image-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-fbsdk] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-device-info] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-webview] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/00230b97c4abc2b63dce1db84639375e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/00230b97c4abc2b63dce1db84639375e/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/55d984c83dd7f70d302b8d28d61085f4/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/55d984c83dd7f70d302b8d28d61085f4/AndroidManifest.xml:22:5-35:19
+MERGED from [com.facebook.android:facebook-login:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f499123a1bcf4f6645d47e0b6ef06186/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f499123a1bcf4f6645d47e0b6ef06186/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/13cbceb8dd8219a08618f7d31a4b6558/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/13cbceb8dd8219a08618f7d31a4b6558/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/89005b305243fdbe52d3f44cab4446be/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/89005b305243fdbe52d3f44cab4446be/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/88fdd3116a26ea8adc7de0ad73062bd8/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/88fdd3116a26ea8adc7de0ad73062bd8/AndroidManifest.xml:11:5-20
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2a51c8a642906c261e6a497f77777a39/AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2a51c8a642906c261e6a497f77777a39/AndroidManifest.xml:27:5-33:19
+MERGED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:28:5-59:19
+MERGED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:28:5-59:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/fa803fb7b9ebdd61e6324042a4a9b391/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/fa803fb7b9ebdd61e6324042a4a9b391/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/a86feee9d3473b5cdd61c721e1537d58/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/a86feee9d3473b5cdd61c721e1537d58/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f3e6f2c52632da1613da61e06c39396d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f3e6f2c52632da1613da61e06c39396d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5c42e562fec22cb54eb00e375cc2b297/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5c42e562fec22cb54eb00e375cc2b297/AndroidManifest.xml:7:5-11:19
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/1e4af1c9c2de5f7686d5cc6464a08166/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/1e4af1c9c2de5f7686d5cc6464a08166/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2ac71bffe7d013d32693c06ecea2fe20/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2ac71bffe7d013d32693c06ecea2fe20/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/80634bed910eb401dd5818fee6615c38/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/80634bed910eb401dd5818fee6615c38/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/6143f20ef97a421e92d707ffb4508063/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/6143f20ef97a421e92d707ffb4508063/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5948acfce63fd00d23a50b58df676669/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5948acfce63fd00d23a50b58df676669/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/bf84bafef99f7950e0b17af2f24d25b0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/bf84bafef99f7950e0b17af2f24d25b0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/37d4448dff85985c55a8c3d83d941214/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/37d4448dff85985c55a8c3d83d941214/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2dc817e21173af6342bd817c7275ce5f/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2dc817e21173af6342bd817c7275ce5f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/37d4448dff85985c55a8c3d83d941214/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-login:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f499123a1bcf4f6645d47e0b6ef06186/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:15:7-39
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:15:7-39
+	tools:ignore
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:17:7-52
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:17:7-52
+	tools:targetApi
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:16:7-41
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:16:7-41
+	android:allowBackup
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:18:7-34
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:18:7-34
+	android:theme
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:19:7-38
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:19:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:14:7-38
+activity#com.vue.MainActivity
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:20:7-47:18
+	android:label
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:23:9-41
+	android:launchMode
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:21:11-41
+	android:windowSoftInputMode
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:25:9-51
+	android:configChanges
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:24:9-79
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:22:11-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:26:9-29:25
+action#android.intent.action.MAIN
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:27:13-65
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:27:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:28:23-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:open+data:scheme:vue-app
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:32:13-37:29
+data
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:33:17-70
+	android:host
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:33:48-67
+	android:scheme
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:33:23-47
+action#android.intent.action.VIEW
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:35:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:36:27-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:vue-app.test.app.link+data:scheme:https
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:40:13-45:29
+	android:autoVerify
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:40:28-53
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:48:7-84
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:48:17-81
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:50:8-106
+	android:value
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:50:65-104
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:50:19-64
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:51:9-53:70
+	android:value
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:53:13-68
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:52:13-58
+meta-data#io.branch.sdk.BranchKey
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:56:9-119
+	android:value
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:56:59-116
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:56:20-58
+meta-data#io.branch.sdk.BranchKey.test
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:57:9-124
+	android:value
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:57:64-121
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:57:20-63
+meta-data#io.branch.sdk.TestMode
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:58:9-82
+	android:value
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:58:58-79
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:58:20-57
+receiver#io.branch.referral.InstallListener
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:61:9-65:20
+	android:exported
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:61:69-92
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:61:19-68
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:62:13-64:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:63:17-79
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:63:25-76
+meta-data#com.snapchat.kit.sdk.clientId
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:67:9-120
+	android:value
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:67:65-117
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:67:20-64
+meta-data#com.snapchat.kit.sdk.redirectUrl
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:68:9-114
+	android:value
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:68:68-111
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:68:20-67
+meta-data#com.snapchat.kit.sdk.scopes
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:69:9-111
+	android:resource
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:69:63-108
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:69:20-62
+activity#com.snapchat.kit.sdk.SnapKitActivity
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:70:9-89:20
+	android:launchMode
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:70:71-102
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:70:19-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.downloadvue.com+data:path:+data:scheme:https
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:71:5-87:21
+service#com.vue.MyFirebaseMessagingService
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:90:9-96:19
+	android:exported
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:92:13-37
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:91:13-55
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:93:13-95:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:94:17-78
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:94:25-75
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:97:9-99:71
+	android:value
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:99:13-68
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml:98:13-89
+uses-sdk
+INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b08ed8726655efc73fd7144e4bac89e1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b08ed8726655efc73fd7144e4bac89e1/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-image-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fbsdk] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-twitter-signin] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-twitter-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-twitter-signin] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-twitter-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-snapchat-login] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-snapchat-login/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-snapchat-login] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-snapchat-login/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_geolocation] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_geolocation] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-branch] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-branch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-branch] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-branch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-permissions] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/00230b97c4abc2b63dce1db84639375e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/00230b97c4abc2b63dce1db84639375e/AndroidManifest.xml:7:5-9:41
+MERGED from [io.branch.sdk.android:library:4.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5e22a229ef4d94d6768e39048f4b929d/AndroidManifest.xml:7:5-9:41
+MERGED from [io.branch.sdk.android:library:4.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5e22a229ef4d94d6768e39048f4b929d/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/55d984c83dd7f70d302b8d28d61085f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/55d984c83dd7f70d302b8d28d61085f4/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f2d179d5060811a1cc934ec9de4cb752/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f2d179d5060811a1cc934ec9de4cb752/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.snapchat.kit.sdk:login:1.3.2] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/faabc8253b9fdd683d7e69bad618aa85/AndroidManifest.xml:7:5-9:41
+MERGED from [com.snapchat.kit.sdk:login:1.3.2] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/faabc8253b9fdd683d7e69bad618aa85/AndroidManifest.xml:7:5-9:41
+MERGED from [com.snapchat.kit.sdk:core:1.3.2] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/58e1d24299edbfa388cdb2d203876443/AndroidManifest.xml:7:5-9:41
+MERGED from [com.snapchat.kit.sdk:core:1.3.2] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/58e1d24299edbfa388cdb2d203876443/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-login:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f499123a1bcf4f6645d47e0b6ef06186/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f499123a1bcf4f6645d47e0b6ef06186/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/13cbceb8dd8219a08618f7d31a4b6558/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/13cbceb8dd8219a08618f7d31a4b6558/AndroidManifest.xml:24:5-26:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/fc0bec82d1b95ed0921e96524e54eaa8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/fc0bec82d1b95ed0921e96524e54eaa8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-common:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/89005b305243fdbe52d3f44cab4446be/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/89005b305243fdbe52d3f44cab4446be/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2bfd6a8e1356938507f2c5d195a27330/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2bfd6a8e1356938507f2c5d195a27330/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/cadbe60229b5438ffb8b712cce95e90e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/cadbe60229b5438ffb8b712cce95e90e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5ba1ddef2975b6b01889d2e52e2fef1e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5ba1ddef2975b6b01889d2e52e2fef1e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/594ca2c60bc4a943ac5a6e95844ab03f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/594ca2c60bc4a943ac5a6e95844ab03f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/c7fff5f7d358a6959a69e1cc6399751b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/c7fff5f7d358a6959a69e1cc6399751b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b2109638f1a64300f5a7ff9197140091/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b2109638f1a64300f5a7ff9197140091/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b8c850917cd5f4baa666908c20c861dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b8c850917cd5f4baa666908c20c861dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/eba794a42d4237059ea2c9c2d0659284/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/eba794a42d4237059ea2c9c2d0659284/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/88fdd3116a26ea8adc7de0ad73062bd8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/88fdd3116a26ea8adc7de0ad73062bd8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2a51c8a642906c261e6a497f77777a39/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2a51c8a642906c261e6a497f77777a39/AndroidManifest.xml:23:5-44
+MERGED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/fa803fb7b9ebdd61e6324042a4a9b391/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/fa803fb7b9ebdd61e6324042a4a9b391/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/40d37197e8d8032544a974bd264f6c52/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/40d37197e8d8032544a974bd264f6c52/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/27124979066b0241675dcebcf2a81a1e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/27124979066b0241675dcebcf2a81a1e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/a86feee9d3473b5cdd61c721e1537d58/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/a86feee9d3473b5cdd61c721e1537d58/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f3e6f2c52632da1613da61e06c39396d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f3e6f2c52632da1613da61e06c39396d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5c42e562fec22cb54eb00e375cc2b297/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5c42e562fec22cb54eb00e375cc2b297/AndroidManifest.xml:5:5-43
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/1e4af1c9c2de5f7686d5cc6464a08166/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/1e4af1c9c2de5f7686d5cc6464a08166/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/775e90a3278116731ae6451331518399/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/775e90a3278116731ae6451331518399/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2ac71bffe7d013d32693c06ecea2fe20/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2ac71bffe7d013d32693c06ecea2fe20/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/80634bed910eb401dd5818fee6615c38/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/80634bed910eb401dd5818fee6615c38/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/6143f20ef97a421e92d707ffb4508063/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/6143f20ef97a421e92d707ffb4508063/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5948acfce63fd00d23a50b58df676669/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5948acfce63fd00d23a50b58df676669/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/bf84bafef99f7950e0b17af2f24d25b0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/bf84bafef99f7950e0b17af2f24d25b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/474217ce2d34e70cc3917e0bea73a02a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/474217ce2d34e70cc3917e0bea73a02a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/09f0db127aa82f7d2c22046da2d8712e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/09f0db127aa82f7d2c22046da2d8712e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f92a522e77aa8f2bffeb7da283963d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f92a522e77aa8f2bffeb7da283963d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5a1ad377655e0cb26008874d8135bfa5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5a1ad377655e0cb26008874d8135bfa5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b56de5031d18ced5f4193596be01b098/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b56de5031d18ced5f4193596be01b098/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8bc01ed89b6dc31516f0c03f48295a87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8bc01ed89b6dc31516f0c03f48295a87/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/04f862c1b6148b6453fbbc5fd3504c7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/04f862c1b6148b6453fbbc5fd3504c7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/49a105556c237a110619810f9ea79175/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/49a105556c237a110619810f9ea79175/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/ea2b72290a9bc1192b18377960e6c5de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/ea2b72290a9bc1192b18377960e6c5de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/4ceb523bc7f3c9376c951097e0e4dd99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/4ceb523bc7f3c9376c951097e0e4dd99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/c6a7a9dc9d99f85d0cfc1901a5ca7ec3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/c6a7a9dc9d99f85d0cfc1901a5ca7ec3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/d4db8a5308f8b4e9b6d2aff095b31487/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/d4db8a5308f8b4e9b6d2aff095b31487/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/064c3aa982817e7ad430d4762435a5df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/064c3aa982817e7ad430d4762435a5df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/bb1ea122ff805b7df834368d6f769288/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/bb1ea122ff805b7df834368d6f769288/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/cc55857a2897f496d4c6905e7d2c7608/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/cc55857a2897f496d4c6905e7d2c7608/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/7c79eea9e5147c6e7e6ddcbbde159570/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/7c79eea9e5147c6e7e6ddcbbde159570/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/37d4448dff85985c55a8c3d83d941214/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/37d4448dff85985c55a8c3d83d941214/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2dc817e21173af6342bd817c7275ce5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2dc817e21173af6342bd817c7275ce5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/60796d61943cd0ce9201b3b4619e0cce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/60796d61943cd0ce9201b3b4619e0cce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/cdf91c67e2c85747836e01fed4724d91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/cdf91c67e2c85747836e01fed4724d91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/a7bc5fd04f99c4a3c1f0bb83bd9122c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/a7bc5fd04f99c4a3c1f0bb83bd9122c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b7648dafcdfc5e939b42eacf6125d358/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b7648dafcdfc5e939b42eacf6125d358/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f39c4dd72895f7b0d2a7eff5582ec48c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f39c4dd72895f7b0d2a7eff5582ec48c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/e64d1f3b33cdf114b33882f16aab8fc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/e64d1f3b33cdf114b33882f16aab8fc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/1623eaded4f0178c170643cd88f68c7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/1623eaded4f0178c170643cd88f68c7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/e6d4ddfd3a86aa338f8c685d1f383146/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/e6d4ddfd3a86aa338f8c685d1f383146/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/c28aa7a8199b3868e8900d2e9b36462e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/c28aa7a8199b3868e8900d2e9b36462e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8ae6dcf12fc025e5105caf0167f2404c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8ae6dcf12fc025e5105caf0167f2404c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b10ceb00dc0d0347d98514d662f2cf13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/b10ceb00dc0d0347d98514d662f2cf13/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/907279662655e88a6ef5ceefb141dff2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/907279662655e88a6ef5ceefb141dff2/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/osvinuser/Desktop/ReactProjects/vue/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-70
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-62
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-116
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/55d984c83dd7f70d302b8d28d61085f4/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/55d984c83dd7f70d302b8d28d61085f4/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/55d984c83dd7f70d302b8d28d61085f4/AndroidManifest.xml:29:13-82
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/89005b305243fdbe52d3f44cab4446be/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/89005b305243fdbe52d3f44cab4446be/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/89005b305243fdbe52d3f44cab4446be/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/89005b305243fdbe52d3f44cab4446be/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/89005b305243fdbe52d3f44cab4446be/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/89005b305243fdbe52d3f44cab4446be/AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/89005b305243fdbe52d3f44cab4446be/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/89005b305243fdbe52d3f44cab4446be/AndroidManifest.xml:34:19-64
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2a51c8a642906c261e6a497f77777a39/AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2a51c8a642906c261e6a497f77777a39/AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2a51c8a642906c261e6a497f77777a39/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2a51c8a642906c261e6a497f77777a39/AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2a51c8a642906c261e6a497f77777a39/AndroidManifest.xml:29:13-79
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:48:25-92
+receiver#com.facebook.CampaignTrackingReceiver
+ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:51:9-58:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:53:13-36
+	android:permission
+		ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:54:13-69
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.11.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/adb43d04dd64082d004c9c6940057a26/AndroidManifest.xml:52:13-65
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/8f50704bdee6d2a0726e7779af42aa60/AndroidManifest.xml:34:13-89
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/726de38be379204263ff93a7be21ffdd/AndroidManifest.xml:34:13-50
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/fa803fb7b9ebdd61e6324042a4a9b391/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/fa803fb7b9ebdd61e6324042a4a9b391/AndroidManifest.xml:23:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f205d4746d0080f340f3a29b12e16413/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f3e6f2c52632da1613da61e06c39396d/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f3e6f2c52632da1613da61e06c39396d/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f3e6f2c52632da1613da61e06c39396d/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f3e6f2c52632da1613da61e06c39396d/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5c42e562fec22cb54eb00e375cc2b297/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/bf84bafef99f7950e0b17af2f24d25b0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/bf84bafef99f7950e0b17af2f24d25b0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5c42e562fec22cb54eb00e375cc2b297/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5c42e562fec22cb54eb00e375cc2b297/AndroidManifest.xml:9:13-58
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2ac71bffe7d013d32693c06ecea2fe20/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2ac71bffe7d013d32693c06ecea2fe20/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2ac71bffe7d013d32693c06ecea2fe20/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2ac71bffe7d013d32693c06ecea2fe20/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/osvinuser/.gradle/caches/transforms-2/files-2.1/2ac71bffe7d013d32693c06ecea2fe20/AndroidManifest.xml:13:13-77

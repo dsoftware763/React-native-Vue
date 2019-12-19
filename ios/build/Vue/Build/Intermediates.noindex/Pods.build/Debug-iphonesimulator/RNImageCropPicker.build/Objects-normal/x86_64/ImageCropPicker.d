@@ -1,0 +1,39 @@
+dependencies: \
+  /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/ios/src/ImageCropPicker.m \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Target\ Support\ Files/RNImageCropPicker/RNImageCropPicker-prefix.pch \
+  /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/ios/src/ImageCropPicker.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-RCTImage/React/RCTImageLoader.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-RCTImage/React/RCTResizeMode.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestHandler.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestDelegate.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/QBImagePickerController/QBImagePickerController.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/RSKImageCropper/RSKImageCropper.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/RSKImageCropper/CGGeometry+RSKImageCropper.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/RSKImageCropper/RSKImageCropViewController.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/RSKImageCropper/RSKImageCropViewController+Protected.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/RSKImageCropper/RSKImageScrollView.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/RSKImageCropper/RSKInternalUtility.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/RSKImageCropper/RSKTouchView.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/RSKImageCropper/UIApplication+RSKImageCropper.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/RSKImageCropper/UIImage+RSKImageCropper.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/ios/src/UIImage+Resize.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-image-crop-picker/ios/src/Compression.h

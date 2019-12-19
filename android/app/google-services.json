@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "990562407128",
+    "firebase_url": "https://vue-app-11b81.firebaseio.com",
+    "project_id": "vue-app-11b81",
+    "storage_bucket": "vue-app-11b81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990562407128:android:1fdef99ec7d035d60e7dad",
+        "android_client_info": {
+          "package_name": "com.vue_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990562407128-pu3ar972tvrevvfd686palhu2dtbgnnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vue_app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "990562407128-0ge4t5lid0dcg9mnhgu7um54g3cg6mf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQTp2am4W9LmP6WGLbDVN6bSm-cEw3EHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990562407128-0ge4t5lid0dcg9mnhgu7um54g3cg6mf9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990562407128-jrq0slu1413qc8sce661s0q25cav6u35.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vue-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

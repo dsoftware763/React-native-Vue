@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORLifecycle.m \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORLifecycle.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORPlatform.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCOREvent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCOREventDataObject.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORRegistrar_Private.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORRegistrar.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORPrioritizer.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORUploadPackage.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORTargets.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORUploader.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORClock.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORStorage_Private.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORStorage.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORTransformer_Private.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORTransformer.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORUploadCoordinator.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORUploadPackage_Private.h

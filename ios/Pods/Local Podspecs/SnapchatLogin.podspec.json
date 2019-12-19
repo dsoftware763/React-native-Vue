@@ -1,0 +1,29 @@
+{
+  "name": "SnapchatLogin",
+  "version": "1.0.3",
+  "summary": "react-native-snapchat-login",
+  "description": "SnapchatLogin",
+  "homepage": "https://github.com/author/SnapchatLogin",
+  "license": "MIT",
+  "authors": {
+    "author": "max@xoor.io",
+    "name": "Maximliano Duthey"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/author/SnapchatLogin.git",
+    "tag": "1.0.3"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ],
+    "SnapSDK/SCSDKLoginKit": [
+
+    ]
+  }
+}

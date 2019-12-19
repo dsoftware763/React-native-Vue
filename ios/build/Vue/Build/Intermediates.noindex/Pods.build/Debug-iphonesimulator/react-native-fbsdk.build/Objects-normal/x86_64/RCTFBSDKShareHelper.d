@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTFBSDKShareHelper.m \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Target\ Support\ Files/react-native-fbsdk/react-native-fbsdk-prefix.pch \
+  /Users/osvinuser/Desktop/ReactProjects/vue/node_modules/react-native-fbsdk/ios/RCTFBSDK/share/RCTFBSDKShareHelper.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareKit.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKHashtag.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareAPI.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphObject.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphValueContainer.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKSharing.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKSharingContent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKSharingValidation.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareConstants.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareLinkContent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareMediaContent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerActionButton.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerGenericTemplateContent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerGenericTemplateElement.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerMediaTemplateContent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerOpenGraphMusicTemplateContent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareMessengerURLActionButton.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphAction.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareOpenGraphContent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKSharePhoto.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKSharePhotoContent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareVideo.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareVideoContent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKAppGroupContent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKAppInviteContent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKGameRequestContent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKGameRequestDialog.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKLiking.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKLikeObjectType.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKMessageDialog.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareButton.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Private/FBSDKCoreKit/FBSDKButton.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKSharingButton.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareCameraEffectContent.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKCameraEffectArguments.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKCameraEffectTextures.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKSharingScheme.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareDialogMode.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKShareDialog.h \
+  /Users/osvinuser/Desktop/ReactProjects/vue/ios/Pods/Headers/Public/FBSDKShareKit/FBSDKShareKit/FBSDKSendButton.h

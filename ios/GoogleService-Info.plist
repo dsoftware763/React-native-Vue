@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>990562407128-jrq0slu1413qc8sce661s0q25cav6u35.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.990562407128-jrq0slu1413qc8sce661s0q25cav6u35</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>990562407128-pu3ar972tvrevvfd686palhu2dtbgnnc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCEIU8IwFsHTY_QkxTwI9cMSJvGnrG1sp8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>990562407128</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vue-app</string>
+	<key>PROJECT_ID</key>
+	<string>vue-app-11b81</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vue-app-11b81.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:990562407128:ios:506342a40c75b38e0e7dad</string>
+	<key>DATABASE_URL</key>
+	<string>https://vue-app-11b81.firebaseio.com</string>
+</dict>
+</plist>

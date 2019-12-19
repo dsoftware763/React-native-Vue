@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/osvinuser/Desktop/ReactProjects/vue/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/osvinuser/.gradle/caches/transforms-2/files-2.1/5dd6767c5477c3a1661cc6f2be70e719/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "127,181,235",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "176,230,277"
+                    }
+                },
+                {
+                    "source": "/Users/osvinuser/.gradle/caches/transforms-2/files-2.1/f43302fd4707918592de63e3c28cea63/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}
