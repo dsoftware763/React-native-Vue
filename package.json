@@ -20,7 +20,7 @@
     "moment": "^2.24.0",
     "npm": "^6.11.3",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-branch": "^4.2.1",
     "react-native-device-info": "^5.3.0",
     "react-native-draggable-flatlist": "^1.1.9",
